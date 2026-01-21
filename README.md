@@ -1,7 +1,5 @@
-# ai-mvp-project
-AI-assisted MVP project showcasing product workflow and design thinking
-
 # AI-assisted MVP Project
+AI-assisted MVP project showcasing product workflow and design thinking
 
 ## Overview
 This project is a fresh MVP / prototype created using Claude.ai to quickly validate a product idea.
